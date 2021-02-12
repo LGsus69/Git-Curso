@@ -1,0 +1,51 @@
+html, body{
+	height:100%;
+	font-family: Helvetica, sans-serif;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
+#contenedor {
+	text-align: center;
+	background-color: #D9DFE7; 
+	width: 100%;
+	height:100%;
+}
+
+#higher {
+	color: white;
+	height:50%;
+	background-color: #2D343C;
+	text-align: center;
+
+}
+
+#lower {
+	height:50%;
+	background-color: #D9DFE7;
+}
+
+.pe {
+	
+	width: 50%;
+	position: absolute;
+	bottom: 50%;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+
+}
+
+.pep {
+	
+	width: 50%;
+	position: absolute;
+	bottom: 2%;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+
+}
